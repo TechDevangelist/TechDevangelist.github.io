@@ -2,3 +2,5 @@ title: TechDevangelist @ GitHub
 description: The repos of a geek exploring the webs
 theme: jekyll-theme-hacker
 show_downloads: false
+github:
+  is_project_page: false
