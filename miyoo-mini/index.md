@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: "Miyoo Mini Resources"
 permalink: /miyoo-mini/
 ---
